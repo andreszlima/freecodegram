@@ -16,7 +16,7 @@
         "laravel/telescope": "^2.1",
         "laravel/tinker": "^2.0",
         "nesbot/carbon": "^2.28",
-        "gd": "*"
+        "ext-gd": "*"
     },
     "require-dev": {
         "facade/ignition": "^1.4",
